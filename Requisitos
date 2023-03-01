@@ -13,6 +13,7 @@
 | RF-009 | A aplicação deve permitir o usuário a editar seu perfil onde o mesmo pode ter status de público ou privado.       | ALTA       |
 | RF-010 | A aplicação deve permitir o usuário a editar, excluir e mandar seu perfil para outras pessoas.                    | ALTA       |
 | RF-011 | A aplicação deve permitir o usuário a criar uma descrição sobre a obra cadastrada juntamente com a imagem da capa.| ALTA       |
+| RF-011 | A aplicação deve permitir o usuário recuperar sua senha atráves do email cadastrado.                              | ALTA       |
 
 
 
