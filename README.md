@@ -11,7 +11,7 @@ O projeto visa a criação de um site de acesso e publicações de livros, espec
 # Integrantes
 
 - Carlos Eduardo Favilla Lobo
-- Gabriel Vinícius Silveira
+- Gabriel Vinícius Silveira e Silva ildefonso
 - Gabriel Miranda Cangussu
 - Mariana Júlia
 - Matheus Pereira Dionisio
