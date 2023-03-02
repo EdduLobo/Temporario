@@ -60,6 +60,59 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RNF-004 | A aplicação deverá ser compatível com diversos navegadores.                                      | MÉDIA      |
 
 
+## Restrições
+
+As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
+
+|ID| Restrição                                             |
+|--|-------------------------------------------------------|
+|RE-01| O projeto deverá seguir o cronograma de entrega definido pela instituição PUC Minas |
+|RE-02| O projeto deverá ter seu código versionado utilizando Git.   |
+|RE-03| A equipe não poderá terceirizar o desenvolvimento do trabalho. |
+|RE-04| Não poderá haver financiamento externo ao projeto.               |
+
+
 ## Diagrama de Casos de Uso
 
 <img src="/src/img/diagrama-de-casos-de-uso.jpg">
+
+## Gerenciamento de Projeto
+Utilizando o PMBoK padrão todo o projeto será gerenciado utilizando planilhas integradas que possibilitarão a visualização da evolução dos trabalhos, bem como a possibilidade de melhoria prática a cada implementação. Para tal, todas as informações referentes ao cronograma, previsão de custos, recursos e equipe envolvidas, atividades ocupadas, reuniões, produção de documentos, entre outros, serão devidamente registradas com o objetivo de construir base documental sólida a fim de que o desenvolvimento do projeto transcorra obedecendo padrões e normas de excelência e qualidade.
+
+## Gerenciamento de Tempo
+
+Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordenar tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
+
+<img src="/src/img/gestao-de-tempo.png">
+
+## Gerenciamento de Equipe
+A equipe cumprirá suas tarefas de acordo com as habilidades e características subjetivas de cada membro, a fim de que cada um contribua e produza o melhor trabalho a ser incorporado ao projeto e consequentemente ao produto final. O gerenciamento das tarefas será registrado para que a produtividade e a qualidade sejam mantidas durante todo o desenvolvimento do projeto.
+
+| Tarefa      | Responsável                                                                              | Status         |
+|---------|----------------------------------------------------------------------------------------------|----------------|
+| Definição de tema | Todos                                                                              | Concluído      |
+| Documentação de contexto | Mariana, Gabriel Silveira                                                     | Concluído    |
+| Personas/Histórias de usuários | Nathália, Gabriel Silveira | Concluído      |
+| Casos de uso | Matheus Pereira                                      | Concluído   |
+| Requisitos funcionais | Gabriel Miranda | Conluído |
+| Requisitos não funcionais | Gabriel Miranda | Conluído |
+| Restrições | Gabriel Silveira | Concluído |
+| Diagrama de casos de uso | Eduardo | Concluído | 
+| Projeto de gestão | Mariana | Em andamento |
+| Matriz de rastreabilidade | Mariana | Concluído | 
+| GitHub | Todos | Em andamento |
+| Revisão do projeto | Todos | Pendente |
+| Entrega do projeto | Todos | Pendente |
+
+
+## Gestão de Orçamento
+Com base em todo o escopo produzido anteriormente, os custos do projeto serão gerenciados em conformidade com os objetivos e requisitos alcançados na concepção do projeto, de modo a garantir o desenvolvimento norteado pela realidade financeira pré-definida.
+
+| Recursos necessários                                                                              | Custo (R$)        |
+|---------------------------------------------------------------------------------------------------|-------------------|
+| Recursos humanos | R$ 122.999,00 |
+| Hardware | R$ 29.000,00 |
+| Rede | R$ 2.900,00 |
+| Software | R$ 15.000,00 |
+| Serviços | R$ 8.000,00 |
+| Total | R$ 177.899,00 |
