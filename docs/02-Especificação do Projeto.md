@@ -62,4 +62,4 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ## Diagrama de Casos de Uso
 
-<img src="src/img/diagrama-de-casos-de-uso.jpg">
+<img src="/src/img/diagrama-de-casos-de-uso.jpg">
