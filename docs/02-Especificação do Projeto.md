@@ -36,18 +36,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 | ID       | Descrição do Requisito                                                                                            | Prioridade |
 | -------- | ----------------------------------------------------------------------------------------------------------------- | ---------- |
-|  RF-001  | A aplicação deve permitir ao usuário buscar uma obra específica.                                                  | ALTA       |
-|  RF-002  | A aplicação deve permitir ao usuário buscar uma lista de obras baseado em um formato (livro, HQ, etc.)            | ALTA       |
-|  RF-003  | A aplicação deve permitir ao usuário buscar uma lista de obras baseado em um gênero.                              | ALTA       |
-|  RF-004  | A aplicação deve permitir a um usuário cadastrar e remover uma obra feita pelo mesmo.                             | ALTA       |
-|  RF-005  | A aplicação deve permitir o usuário acessa um feed de recomendações de livros.                                    | ALTA       |
-|  RF-006  | A aplicação deve permitir o usuário criar sua conta, acessar seu histórico de leituras.                           | ALTA       |
-|  RF-007  | A aplicação deve permitir o usuário criar uma lista de livros para ler mais tarde.                                | ALTA       |
-|  RF-008  | A aplicação deve permitir o usuário criar sua conta e acessar seu histórico de leituras.                          | ALTA       |
-|  RF-009  | A aplicação deve permitir o usuário a editar seu perfil onde o mesmo pode ter status de público ou privado.       | ALTA       |
-|  RF-010  | A aplicação deve permitir o usuário a editar, excluir e mandar seu perfil para outras pessoas.                    | ALTA       |
-|  RF-011  | A aplicação deve permitir o usuário a criar uma descrição sobre a obra cadastrada juntamente com a imagem da capa.| ALTA       |
-|  RF-011  | A aplicação deve permitir o usuário recuperar sua senha atráves do email cadastrado.                              | ALTA       |
+| RF-001 | A aplicação deve permitir ao usuário buscar uma obra específica.                                                  | MÉDIO      |
+| RF-002 | A aplicação deve permitir ao usuário buscar uma lista de obras baseado em um formato (livro, HQ, etc.)            | MÉDIO      |
+| RF-003 | A aplicação deve permitir ao usuário buscar uma lista de obras baseado em um gênero.                              | MÉDIO      |
+| RF-004 | A aplicação deve permitir a um usuário cadastrar e remover uma obra feita pelo mesmo.                             | ALTA       |
+| RF-005 | A aplicação deve permitir o usuário acessa um feed de recomendações de livros.                                    | ALTA       |
+| RF-006 | A aplicação deve permitir o usuário recuperar sua senha atráves do email cadastrado.                              | ALTA       |
+| RF-007 | A aplicação deve permitir o usuário criar uma lista de livros para ler mais tarde.                                | ALTA       |
+| RF-008 | A aplicação deve permitir o usuário criar sua conta e acessar seu histórico de leituras.                          | ALTA       |
+| RF-009 | A aplicação deve permitir o usuário a editar seu perfil onde o mesmo pode ter status de público ou privado.       | BAIXO      |
+| RF-010 | A aplicação deve permitir o usuário a editar, excluir e mandar seu perfil para outras pessoas.                    | ALTA       |
+| RF-011 | A aplicação deve permitir o usuário a criar uma descrição sobre a obra cadastrada juntamente com a imagem da capa.| MEDIO      |
+  
 
 
 ### Requisitos não Funcionais
@@ -66,10 +66,10 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|RE-01| O projeto deverá seguir o cronograma de entrega definido pela instituição PUC Minas |
-|RE-02| O projeto deverá ter seu código versionado utilizando Git.   |
-|RE-03| A equipe não poderá terceirizar o desenvolvimento do trabalho. |
-|RE-04| Não poderá haver financiamento externo ao projeto.               |
+| RNF-001 | A aplicação deverá ser de fácil leitura e entendimento.                                          | ALTA       |
+| RNF-002 | A aplicação deve ser desenvolvida em ReactJS.                                                    | ALTA       |
+| RNF-003 | A aplicação deverá ser responsiva e poderá ser acessada em diversos dispositivos e equipamentos. | MÉDIA      |
+| RNF-004 | A aplicação deverá ser compatível com diversos navegadores.                                      | MÉDIA      |
 
 
 ## Diagrama de Casos de Uso
