@@ -54,9 +54,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 | ID      | Descrição do Requisito                                                                           | Prioridade |
 |---------|--------------------------------------------------------------------------------------------------|------------|
-| RNF-001 | A aplicação deverá ser de fácil leitura e entendimento.                                          | MÉDIA      |
-| RNF-002 | A aplicação deve ser desenvolvida em ReactJS                                                     | MÉDIA      |
-| RNF-003 | A aplicação deverá ser responsiva e poderá ser acessada em diversos dispositivos e equipamentos. | MÉDIA      |
+| RNF-001 | A aplicação deverá ser de fácil leitura e entendimento.                                          | ALTA       |
+| RNF-002 | A aplicação deve ser desenvolvida em ReactJS                                                     | ALTA       |
+| RNF-003 | A aplicação deverá ser responsiva e poderá ser acessada em diversos dispositivos e equipamentos. | ALTA       |
 | RNF-004 | A aplicação deverá ser compatível com diversos navegadores.                                      | MÉDIA      |
 
 
